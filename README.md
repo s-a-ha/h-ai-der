@@ -16,7 +16,7 @@ Passionate AI pioneer | Pioneering breakthroughs through data-driven exploration
 -----------------
 
 * Programming languages: Python, Bash
-* Frameworks: TensorFlow, Keras, PyTorch 
+* Frameworks: TensorFlow, Keras, PyTorch, Hugging Face 
 * Operating Systems: Linux, MacOS, Windows (with knowledge of containerization using Docker or Kubernetes)
 * GPU: NVIDIA 3080 Ti
 
