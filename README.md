@@ -48,7 +48,7 @@ An RL model that trains a two-legged robot to walk.
 ### 4. Reinforcement Learning: Mastering Atari Breakout with PPO
 An RL model that trains an AI agent to 
 
-* **Code/Demo**: [Object_Detection](https://github.com/s-a-ha/h-ai-der/blob/main/Reinforcement_Learning_with_Atari_Breakout.ipynb)
+* **Code/Demo**: [Pong](https://github.com/s-a-ha/h-ai-der/blob/main/Reinforcement_Learning_with_Atari_Breakout.ipynb)
 
 
 **Expertise Areas**
