@@ -9,7 +9,7 @@ Passionate AI pioneer | Pioneering breakthroughs through data-driven exploration
 **Portfolio Highlights**
 --------------------
 
-1.**Machine Learning: Classification with MNIST**: A comprehensive approach to MNIST; a project showcasing properly powerful methodologies crucial for model selection and hyperparameter tuning. A good way to approach an ML based classification task complete with metrics to evauluate predictions.
+1. **Machine Learning: Classification with MNIST**: A comprehensive approach to MNIST; a project showcasing properly powerful methodologies crucial for model selection and hyperparameter tuning. A good way to approach an ML based classification task complete with metrics to evauluate predictions.
 
 2. **Deep Learning: Image Generator using GANs**: A dynamic implementation of a generative model using Keras that creates realistic images from scratch, perfect for applications in graphics design, advertising, or even art.
  
