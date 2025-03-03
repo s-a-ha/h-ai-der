@@ -1,4 +1,6 @@
-# h-AI-der
+# h-AI-der! 👋
+
+Welcome to my AI Portfolio!
 
 **About Me**
 
@@ -7,10 +9,13 @@ Passionate AI pioneer | Pioneering breakthroughs through data-driven exploration
 **Portfolio Highlights**
 --------------------
 
-1.**ML Classification with MNIST**: A comprehensive approach to MNIST; a project showcasing properly powerful methodologies crucial for model selection and hyperparameter tuning. A good way to approach an ML based classification task complete with metrics to evauluate predictions.   
-2. **Image Generator using GANs**: A dynamic implementation of a generative model using Keras that creates realistic images from scratch, perfect for applications in graphics design, advertising, or even art.
-3. **Sentiment Analysis with LSTM and GRU**: A deep learning model that accurately predicts sentiment from text data, ideal for use cases in customer service, market research, or social media monitoring.
-4. **Object Detection for Autonomous Vehicles**: A computer vision project that detects objects in real-time video feeds, crucial for applications in self-driving cars, robotics, or surveillance systems.
+1.**Machine Learning: Classification with MNIST**: A comprehensive approach to MNIST; a project showcasing properly powerful methodologies crucial for model selection and hyperparameter tuning. A good way to approach an ML based classification task complete with metrics to evauluate predictions.
+
+2. **Deep Learning: Image Generator using GANs**: A dynamic implementation of a generative model using Keras that creates realistic images from scratch, perfect for applications in graphics design, advertising, or even art.
+ 
+3. **Reinforcement Learning: Bipedal Walker using A2C**: An implementation of a reinforcement learning model using Stable Baselines3 and Advantage Actor-Critic networks, which autonomously trains a bipedal robot to navigate complex terrain, applicable to robotics, control systems, or even game AI.
+ 
+4. **Reinforcement Learning: Mastering Atari Breakout with PPO**: A deep reinforcement learning agent, powered by Stable Baselines3 and Proximal Policy Optimization (PPO), learns to play Atari Breakout, showcasing the potential of AI in game playing and control tasks.
 
 **Technical Skills**
 -----------------
@@ -22,31 +27,29 @@ Passionate AI pioneer | Pioneering breakthroughs through data-driven exploration
 
 **Projects**
 ----------
-### 1. ML Classification with MNIST
+### 1. Machine Learning: Classification with MNIST
+A machine learning project showcasing model selection, hyperparameter tuning, and analysis of results.
 
-* **Code**: [MNIST Classification](https://github.com/your-username/mnist_classification)
-* **Demo**: colab_link
+* **Code/Demo**: [MNIST Classification](https://github.com/s-a-ha/h-ai-der/blob/main/MNIST_Classification_With_Machine_Learning.ipynb)
 
-### 2. Image Generator using GANs
 
+### 2. Deep Learning: Image Generator using GANs
 A dynamic Generative Adversarial Network (GAN) that generates realistic images from random noise.
 
-* **Code**: [Image_Generator](https://github.com/your-username/image_generator)
-* **Demo**: colab_link
+* **Code/Demo**: [Face_Generator](https://github.com/s-a-ha/h-ai-der/blob/main/DeepLearning_Face_Generation_GAN.ipynb)
 
-### 3. Sentiment Analysis with LSTM
 
-A deep learning model that accurately predicts sentiment from text data using Long Short-Term Memory (LSTM) networks.
+### 3. Reinforcement Learning: Bipedal Walker using A2C
+An RL model that trains a two-legged robot to walk.
 
-* **Code**: [Sentiment_Analysis](https://github.com/your-username/sentiment_analysis)
-* **Demo**: colab_link
+* **Code/Demo**: [Bipedal Walker](https://github.com/s-a-ha/h-ai-der/blob/main/Bipedal_Walker_Reinforcement_Learning.ipynb)
 
-### 4. Object Detection for Autonomous Vehicles
 
-A computer vision project that detects objects in real-time video feeds using YOLO (You Only Look Once) algorithm.
+### 4. Reinforcement Learning: Mastering Atari Breakout with PPO
+An RL model that trains an AI agent to 
 
-* **Code**: [Object_Detection](https://github.com/your-username/object_detection)
-* **Demo**: colab_link
+* **Code/Demo**: [Object_Detection](https://github.com/s-a-ha/h-ai-der/blob/main/Reinforcement_Learning_with_Atari_Breakout.ipynb)
+
 
 **Expertise Areas**
 -------------------
@@ -56,32 +59,27 @@ clustering, and more.
 2. **Deep Learning**: I've worked extensively with deep learning frameworks like TensorFlow, Keras, and PyTorch to build neural networks for 
 image classification, object detection, and natural language processing tasks.
 3. **Natural Language Processing**: My projects involve text analysis, sentiment analysis, and language modeling using techniques like LSTM, GRU, and more.
-4. **Logistics, Inventory, and Supply Chain**: Over 7 years experience managing teams in this space
+4. **Reinforcement Learning**: I have a thorough understanding of the math and underlying principles used in Reinforcement Learning, and cutting edge techniques used in the field such as Advantage Actor-Critic, Proximal Policy Optimization models, et al.
+5. **Logistics, Inventory, and Supply Chain**: Over 7 years experience managing teams in this space.
 
 **Achievements**
 ----------------
 
 * Developed a state-of-the-art generative model that created realistic images from scratch
 * Built a deep learning model that accurately predicted sentiment from text data with high precision
-* Successfully deployed a computer vision project that detected objects in real-time video feeds for autonomous vehicles
+
+**Current AI Interests**
+
+* Computer vision to detect objects in real-time video feeds and quantizing models to deploy them on IOT devices, for use in supply chain and logistics.
 
 **Get in Touch**
 --------------
 
 If you're interested in collaborating or learning more about my projects, feel free to reach out:
 
-* Email: [your-email@example.com](mailto:your-email@example.com)
-* LinkedIn: [linkedin.com/in/your-username](https://www.linkedin.com/in/your-username)
+* Email: [01sye.dah+git@gmail.com](mailto:01sye.dah+git@gmail.com)
 
 
-**License**
--------
-
-This portfolio is licensed under the MIT License. Feel free to use, modify, and distribute the code as you see fit.
 
 Thanks for visiting my AI portfolio!
-
-Note that I've made some changes to highlight your expertise in more detail, such as:
-
-
 
