@@ -46,7 +46,7 @@ An RL model that trains a two-legged robot to walk.
 
 
 ### 4. Reinforcement Learning: Mastering Atari Breakout with PPO
-An RL model that trains an AI agent to 
+An RL model that trains an AI agent to progressively master the classic game of Atari Breakout.
 
 * **Code/Demo**: [Pong](https://github.com/s-a-ha/h-ai-der/blob/main/Reinforcement_Learning_with_Atari_Breakout.ipynb)
 
@@ -65,12 +65,14 @@ image classification, object detection, and natural language processing tasks.
 **Achievements**
 ----------------
 
-* Developed a state-of-the-art generative model that created realistic images from scratch
-* Built a deep learning model that accurately predicted sentiment from text data with high precision
+* Most recently, procured small neural processors and cameras, then fitted the hardware to an edge devices with a small processor and a limited 8GB of RAM. Succesfully ran pre-trained Deep Learning models such as YOLO to perform tasks such as object detection, pose estimation, and image segmentation, locally on the edge device.  
 
 **Current AI Interests**
 
-* Computer vision to detect objects in real-time video feeds and quantizing models to deploy them on IOT devices, for use in supply chain and logistics.
+* Computer vision to preprocess data and run models to detect objects in real-time video feeds. Quantizing models to deploy them on edge devices, for use industrial use.
+* Creating custom agentic solutions - especially for inventory, logistics, and transportation systems using tools like langchain ,langflow, and llamaindex. 
+* Developing ethical and secure AI systems that can be tested for production scenarios.
+  
 
 **Get in Touch**
 --------------
