@@ -16,6 +16,10 @@ Passionate AI pioneer | Pioneering breakthroughs through data-driven exploration
 3. **Reinforcement Learning: Bipedal Walker using A2C**: An implementation of a reinforcement learning model using Stable Baselines3 and Advantage Actor-Critic networks, which autonomously trains a bipedal robot to navigate complex terrain, applicable to robotics, control systems, or even game AI.
  
 4. **Reinforcement Learning: Mastering Atari Breakout with PPO**: A deep reinforcement learning agent, powered by Stable Baselines3 and Proximal Policy Optimization (PPO), learns to play Atari Breakout, showcasing the potential of AI in game playing and control tasks.
+   
+5. **Deep Learning Computer Vision Indoor Image Classification**: A Jupyter Notebook demonstrating indoor image classification using deep learning and computer vision techniques.
+
+6. **Deep Learning Basal Cell Carcinoma Detection**: A Jupyter Notebook showcasing a deep learning model for detecting Basal Cell Carcinoma.
 
 **Technical Skills**
 -----------------
@@ -49,6 +53,18 @@ An RL model that trains a two-legged robot to walk.
 An RL model that trains an AI agent to progressively master the classic game of Atari Breakout.
 
 * **Code/Demo**: [Pong](https://github.com/s-a-ha/h-ai-der/blob/main/Reinforcement_Learning_with_Atari_Breakout.ipynb)
+
+### 5. Deep Learning Computer Vision Indoor Image Classification A Jupyter Notebook demonstrating indoor image classification using deep learning and computer vision techniques.
+
+* **Code/Demo**: [Indoor Image Classification](https://github.com/s-a-ha/h-ai-der/blob/main/Deep_Learning_ComputerVision_IndoorImage_Classification_001.ipynb)
+
+
+### 6. Deep Learning Basal Cell Carcinoma Detection
+A Jupyter Notebook showcasing a deep learning model for detecting Basal Cell Carcinoma.
+
+* **Code/Demo**: [Basal Cell Carcinoma Detection](https://github.com/s-a-ha/h-ai-der/blob/main/Deep_Learning_Basal_Cell_Carcinoma_Detection.ipynb)
+
+
 
 
 **Expertise Areas**
