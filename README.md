@@ -17,9 +17,9 @@ Passionate AI pioneer | Pioneering breakthroughs through data-driven exploration
  
 4. **Reinforcement Learning: Mastering Atari Breakout with PPO**: A deep reinforcement learning agent, powered by Stable Baselines3 and Proximal Policy Optimization (PPO), learns to play Atari Breakout, showcasing the potential of AI in game playing and control tasks.
    
-5. **Deep Learning Computer Vision Indoor Image Classification**: A Jupyter Notebook demonstrating indoor image classification using deep learning and computer vision techniques.
+5. **Deep Learning: Computer Vision Indoor Image Classification**: A Jupyter Notebook demonstrating indoor image classification using deep learning and computer vision techniques.
 
-6. **Deep Learning Basal Cell Carcinoma Detection**: A Jupyter Notebook showcasing a deep learning model for detecting Basal Cell Carcinoma.
+6. **Deep Learning: Basal Cell Carcinoma Detection**: A Jupyter Notebook showcasing a deep learning model for detecting Basal Cell Carcinoma.
 
 **Technical Skills**
 -----------------
