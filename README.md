@@ -54,7 +54,8 @@ An RL model that trains an AI agent to progressively master the classic game of 
 
 * **Code/Demo**: [Pong](https://github.com/s-a-ha/h-ai-der/blob/main/Reinforcement_Learning_with_Atari_Breakout.ipynb)
 
-### 5. Deep Learning: Computer Vision Indoor Image Classification A Jupyter Notebook demonstrating indoor image classification using deep learning and computer vision techniques.
+### 5. Deep Learning: Computer Vision Indoor Image Classification 
+A Jupyter Notebook demonstrating indoor image classification using deep learning and computer vision techniques.
 
 * **Code/Demo**: [Indoor Image Classification](https://github.com/s-a-ha/h-ai-der/blob/main/Deep_Learning_ComputerVision_IndoorImage_Classification_001.ipynb)
 
